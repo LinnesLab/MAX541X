@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map for MAX541X
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAX541X	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+write	KEYWORD2
+setR	KEYWORD2
+getR	KEYWORD2
+writeNonvolatile	KEYWORD2
+switchVtoNV	KEYWORD2
+switchNVtoV	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX541X_VREG	LITERAL1
+MAX541X_NVREG	LITERAL1
+MAX541X_NVREGxVREG	LITERAL1
+MAX541X_VREGxNVREG	LITERAL1
+MAX541X_WL	LITERAL1
+MAX541X_WH	LITERAL1
+
